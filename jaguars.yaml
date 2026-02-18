@@ -1,4 +1,4 @@
-team: Jaguars
+team: Jungle Jaguars
 
 manager: Stanley
 
@@ -6,4 +6,7 @@ members:
 - Caleb
 - Harvey
 - Myles
+<<<<<<< HEAD
 - test2
+=======
+>>>>>>> 002bf05fee33b1d02fb4a2c84c35b59cacc2ad7b
